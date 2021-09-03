@@ -1,6 +1,7 @@
-# Quartz
-Simple second brain and digital garden.
+# Charles Adjovu's Digital Garden
 
-> “He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Hi! Welcome to my digital garden.
 
-🔗 Get Started: https://quartz.jzhao.xyz/
+This site is based on [Jacky Zhao's](https://jzhao.xyz/posts/digital-gardening) [Quartz](https://github.com/jackyzha0/quartz) theme for Hugo.
+
+This digital garden is primarily for my work on/for the Ledgerback Digital Commons Research Cooperative.
