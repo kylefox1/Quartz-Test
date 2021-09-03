@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "792d5a50fc862321",
+    "type": "split",
+    "children": [
+      {
+        "id": "40146fddf08a002c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Garden_1-2021_0903.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29632632322d3465",
+    "type": "split",
+    "children": [
+      {
+        "id": "5066e0eaf1853f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fcb6a8d6031c87c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c50ccac7f4d973b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "657f7f1907a9a09d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e36bef56920fb87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a311287787a9f94f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Garden_1-2021_0903.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "860812501db7ff39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Garden_1-2021_0903.md"
+              }
+            }
+          },
+          {
+            "id": "461948df4086d3b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad82f58f675261c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Garden_1-2021_0903.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "40146fddf08a002c",
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
