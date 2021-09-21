@@ -19,3 +19,17 @@ I will be writing V2.X updates in chunks rather than one finished essay.
 Send your feedback to my [Twitter](https://twitter.com/CAdjovu) account.
 
 - [Notes](./Garden-1/NILS-V2-2021_0921-V0.1.md)
+
+## DGov Score Framework (DGov Score)
+
+Quick update.
+
+I am trying a new version of the assessment based on the Framework that disconnects the organizing principles of DAOs from:
+
+1. Other digital organizations, 
+2. Participant experience, and
+2. Performance.
+
+This assessment specifically focuses on the organizing principles of DAOs (hereafter DAO Index).
+
+- [Notes](./Garden-1/DGov_Score-DAO_Index-2021_0921-V0.1.md)
