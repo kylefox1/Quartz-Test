@@ -18,4 +18,4 @@ I will be writing V2.X updates in chunks rather than one finished essay.
 
 Send your feedback to my [Twitter](https://twitter.com/CAdjovu) account.
 
-- [Notes](NILS-V2-2021_0921-V0.1.md)
+- [Notes](./Garden-1/NILS-V2-2021_0921-V0.1.md)
