@@ -6,6 +6,18 @@ This site is based on [Jacky Zhao's](https://jzhao.xyz/posts/digital-gardening) 
 
 This digital garden is primarily for my work on/for the [Ledgerback Digital Commons Research Cooperative](https://www.ledgerback.coop/).
 
+## Writings
+
+- [Article Drafts and Ideas](./Garden-1/Article_Ideas-2021_0925-V0.1.md)
+
+## Courses
+
+- [Courses-Ideas-2021_0925-V0.1](./Garden-1/Courses-Ideas-2021_0925-V0.1.md)
+
+## Knowledgebases
+
+- [Knowledgebases](./Garden-1/Knowledgebases-2021_0925-V0.1.md)
+
 ## Audio recordings
 
 - [Ledgerback Research Podcast](https://anchor.fm/philomath-ledgerback)
@@ -37,3 +49,4 @@ I am trying a new version of the assessment based on the Framework that disconne
 This assessment specifically focuses on the organizing principles of DAOs (hereafter DAO Index).
 
 - [Notes](./Garden-1/DGov_Score-DAO_Index-2021_0921-V0.1.md)
+

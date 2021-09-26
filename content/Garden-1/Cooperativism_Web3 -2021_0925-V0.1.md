@@ -1,0 +1,83 @@
+---
+title: "Practicing Cooperativism in Web3 — Blockchain Cooperatives"
+---
+# Practicing Cooperativism in Web3 — Blockchain Cooperatives
+
+#### The rise of glocal sociotechnical cooperative orgaizations and digital cooperativism meeting online communities
+
+  
+
+### Outline — 2021–08–11
+
+-   Describe coops, mention platform coop (grab from research cooperative article), mention ?**new cooperativism?,** mention difference between formal cooperatives and practicing cooperativism in informal coops (i.e., quasi-coops)
+-   mention cooperativism as a practice (principles and values) and how this is permeating the web (making platform coops (also preserving P2P/Commons), democratizing online communities, rise of DAOs/DisCOs and quasi-coops, related movements such as ownership economy annd creator economy, vocabulary (e.g., community capitalism)) and people at this interesting intersection (jessie walden, austin robey, etc.)
+-   mention ?DAWC and DAO2DAO in terms of cooperatives?
+-   mention big diff between coops (comm’y is usually geographivally local) and DAOs (comm’y is cyberspace-local)
+-   mention how coops annd DAOs promote multi-stakeholder models annd commoingn?
+-   mention how to organize DAO structures and parallel cooperative versions
+-   mention hypothetical that combines cooperativism and Web3
+-   how DAOs and coops can buildtoward “co-operative commonwealth”
+-   why delivery coop alts
+-   why web3 and platform coops are taking on big tech (or why alts)
+-   Describe coop in Web3 benefit for individuals
+-   Examples (include purpose and individual benefits)
+-   Discussion questions
+-   Product/Collective Ideas
+
+### Cooperatives
+
+### Cooperatives
+
+![](https://cdn-images-1.medium.com/max/1000/0*yDT-3TizG256cMQ9)
+
+![](https://cdn-images-1.medium.com/max/1000/0*CMI7ufTF-SjFFjQz)
+
+Photo by [Danielle MacInnes](https://unsplash.com/@dsmacinnes?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
+
+The International Cooperative Alliance (ICA) defines a cooperative as “an autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs and aspirations through a jointly-owned and democratically-controlled enterprise” [2].
+
+The cooperative model is an ownership model that can work with various business models.
+
+The seven cooperative principles are:
+
+1. Voluntary and Open Membership,
+
+2. Democratic Member Control,
+
+3. Member Economic Participation,
+
+4. Autonomy and Independence,
+
+5. Education, Training, and Information,
+
+6. Cooperation among Cooperatives, and
+
+7. Concern for Community [2].
+
+A cooperative is distinguished from other organizations based on democratic governance, member-ownership, and operating for the benefit of members.
+
+### Platform Cooperatives
+
+“Platform cooperatives are businesses that use a website, mobile app, or protocol to sell goods or services. They rely on democratic decision-making and shared ownership of the platform by workers and users” [3].
+
+There are four types of platform cooperatives:
+
+1.  Data,
+2.  Worker,
+3.  Producer, and
+4.  Multi-stakeholder [5].
+
+> To learn more about platforms, please read the Introduction to Platform Cooperativism Mini-course [slides](https://speakerdeck.com/ledgerback/introduction-to-platform-cooperativism-mini-course)
+
+  
+
+Examples:
+
+1.  Eva
+2.  Kleros
+3.  Lab10
+
+  
+
+[**A Prehistory of DAOs - Mirror**  
+_This essay is the second in a Gnosis Guild series by @keikreutler bridging cryptonetworks, web3, and gaming. The first…_gnosisguild.mirror.xyz](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q "https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q")[](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)

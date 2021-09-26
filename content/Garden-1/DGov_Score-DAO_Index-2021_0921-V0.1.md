@@ -2,8 +2,15 @@
 title: "DAO Index"
 ---
 
-Quick update.
+# DGov Score
 
+## Introduction
+
+Here is a short and sweet update on the Distributed Governance (DGov) Score Framework (DGSF). 
+
+As always, send your feedback to my [Twitter](https://twitter.com/CAdjovu) account.
+
+## DAO Index
 I am trying a new version of the assessment based on the Framework that disconnects the organizing principles of DAOs from:
 
 1. Other digital organizations, 
@@ -168,8 +175,9 @@ It is still in the early stages but I would like to get your feedback on anythin
 
 The first organization I will be evaluating is [dOrg](https://www.deepdao.io/#/deepdao/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6/topLevel).
 
-For your personal use, I recommend using the DAO's official website and docs, DeepDAO and Govbase as data sources.
+For your personal use, I recommend using the DAO's official website and docs, and DeepDAO and Govbase as data sources.
 
+### Readings
 And some helpful readings to contextualize the DAO Index's organizing principles:
 
 1. [ Is a DAO a Panopticon? Algorithmic governance as creating and mitigating vulnerabilities in "Decentralised Autonomous Organisations"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907693)
