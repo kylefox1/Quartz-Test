@@ -1,5 +1,5 @@
 ---
-title "Measuring progress toward the global tech commonwealth"
+title: "Measuring progress toward the global tech commonwealth"
 ---
 
 ### Measuring progress toward the global tech commonwealth
