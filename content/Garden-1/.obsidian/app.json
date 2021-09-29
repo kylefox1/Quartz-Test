@@ -1,4 +1,4 @@
 {
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "absolute"
 }
