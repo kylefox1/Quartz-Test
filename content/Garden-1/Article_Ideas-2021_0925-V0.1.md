@@ -34,29 +34,30 @@ Alternatively, I might turn these into podcasts.
 4. SDCI V1.1
 23. NLP Q&A
 	1. https://thesequence.substack.com/p/-natural-language-understanding-recap
+	2. https://sarita-padoshi.medium.com/interactive-q-a-bot-using-rasa-haystack-67c04021793
 24. prediction markets
-		- https://augur.net/
-		- for scholarly work?
-		- contest v. prediction market for battling incorrect info?
-			- [Compete with others to fact check, source, and connect pieces of information across the internet.](https://bridger.live/)
-		- prediction market to predict contest winners
-27. Wyoming DAO law
-28. CitSci  101?
-30. [Infranodus](https://infranodus.com/) for nat'l lang. gen. (NLG) in networked-thought tools
-31. OrgTech (linked list of example tech)
-32. [Dual AI assistant](https://psionica.org/tools/dual/) by Psionica
+	1. https://augur.net/
+	2. for scholarly work?
+	3. contest v. prediction market for battling incorrect info?
+		1. [Compete with others to fact check, source, and connect pieces of information across the internet.](https://bridger.live/)
+	4. prediction market to predict contest winners?
+25. Wyoming DAO law
+26. CitSci  101?
+27. [Infranodus](https://infranodus.com/) for nat'l lang. gen. (NLG) in networked-thought tools
+28. OrgTech (linked list of example tech)
+29. [Dual AI assistant](https://psionica.org/tools/dual/) by Psionica
 	1. https://paulbricman.com/
 		1. *I really like the term "thoughtware"*
-33. Thoughts on Exit to Community (or an intro to the topic)
-34. How would Peloton be turned into a platform cooperative?
+30. Thoughts on Exit to Community (or an intro to the topic)
+31. How would Peloton be turned into a platform cooperative?
 	1. https://productmint.com/the-peloton-business-model-how-does-peloton-make-money/
-35. co-op ecosystem-wide reward/loyalty program (req. for research )
+32. co-op ecosystem-wide reward/loyalty program (req. for research )
 	1. https://www.mypoints.com/reward?1=2
-36. Molecule 
-37. SOFA
+33. Molecule 
+34. SOFA
 	1. https://basicincome.org/news/2017/05/netherlands-radical-new-way-fund-science/
-38. AMMs for rewards programs. (Buy X amount, portion of money spent gets turned into reward tokens ($Rewards), which gives cheaper deals on stuff)
-39. Knowledge curation videogames
-40. Ledgerback-School
-	1. prepare people for alternative internet or industry 4.0 and moving towards GTC?
+35. AMMs for rewards programs. (Buy X amount, portion of money spent gets turned into reward tokens ($Rewards), which gives cheaper deals on other stuff)
+36. Knowledge curation videogames
+37. Ledgerback-School
+	1. prepare people for alternative internet or industry 4.0 or moving towards GTC?
 		1. same format as courses.
