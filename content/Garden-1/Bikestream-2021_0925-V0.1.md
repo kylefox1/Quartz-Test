@@ -185,6 +185,7 @@ A research project on using social technology and democratic ownership models to
 
 A research project on using emerging and social technology and democratic ownership models to support data and vehicle sovereignty of micro-mobility modals as we move towards Industry 4.0.
 
+%%
 ### What is Bikestream’s purpose/ How will work be done?
 
 We are developing product- and collective-models to support the cooperative sharing of mobility, personal, vehicle, and sensor data from micro-mobility vehicles (or light electric vehicles). Specifically, we use electric bicycles.
@@ -198,6 +199,7 @@ We will be developing a knowledge/data commons on information relevant to the pr
 A research project on using social technology and democratic ownership models to support data and vehicle sovereignty of micro-mobility modals as we move towards Industry 4.0.
 
 Should publish Bikestream Data Cooperative (& Federation through frannchising) model with a post. And a Bikestream DAO model.
+%%
 
 ### What are the problems that Bikestream addresses?
 
@@ -219,6 +221,20 @@ Change to “Why you should care?”
 -   High rate of pedestrian and cyclists deaths in the USA.2
 -   Control of geolocation mapping by very few companies which are often not known for good data privacy practices (e.g., Google)
 -   [TNCs (primarily Uber and Lyft) tend not to play well with public transportation and other TNCs, which often lead to a lack of transparency around payments, mobility options, and inhibition of user choice.](https://www.bloomberg.com/news/articles/2019-10-08/what-s-behind-lyft-s-battle-over-bikeshare-access)
+-   Lack of alternative, community-owned marketplaces for cycling
+
+#### Problems we will address
+We plan to address the following problems:
+
+1. 
+pick 3 - 5
+
+##### Initial plan to address them
+
+1. Develop a build-and-rent model where people can buy databikes and rent them out
+2. Develop jupyter notebooks for common cycling analytics
+3. Develop a mobile app for booking rides
+4. Develop a marketplace for training plans or events
 
 ### What are the use-cases of Bikestream?
 
@@ -240,6 +256,8 @@ Change to “Why you should care?”
 -   fractionalized ownership of e-bikes
 -   evaluate bicycle infrastructure
 
+
+
 ### What recent work has come out of the Bikestream project?
 
 Our most recent work is the Databike Zeta 001 (DBZ-001) Proof-of-Concept (PoC).
@@ -248,9 +266,21 @@ You can read the report here.
 
 Thus, cycling analytics is a major focus for us.
 
-### What future is the Bikestream project cycling towards?
+### What work is coming out soon from of the Bikestream project?
 
-Develop Bikestream into a mobility data platform and a future where global and local communities can own and manage their micro-mobility data and vehicles.
+Our next work after developing the Databike Zeta 001 will be some additional work on developing the databike's physical setup (especially adding a smart-lock), improving data- and bike-specifications and logging software, and these PoCs:
+
+1. try token-gated locks with unlock-protocol/mintgate for databikes, 
+2. try a Helium+Streamr integration,
+3. procure partners for data monetization,
+4. use an open source bikesharing/booking mobile app with databikes, and
+5. develop a data cooperative model for member-based services and products.
+
+
+
+### What future is the Bikestream project cycling towards? (i.e., vision)
+
+We hope to develop Bikestream into a mobility data platform and a future where global and local communities can own and manage their micro-mobility data and vehicles.
 
 Mobility goal
 
