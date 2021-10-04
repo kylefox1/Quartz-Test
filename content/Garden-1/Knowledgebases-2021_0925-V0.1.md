@@ -17,6 +17,8 @@ The knowledgebases are:
 	1. probably use for a NLP Q&A system demo
 6. Global Tech Commonwealth (GTC) Index
 7. Convergence Lit. Rev.
+8. Solutions
+	1. [Backyard_BrainTrust-2021-1004-V0.1](Garden-1/Backyard_BrainTrust-2021-1004-V0.1.md)
 
 
 
