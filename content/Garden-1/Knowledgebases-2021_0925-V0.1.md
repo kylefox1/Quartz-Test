@@ -82,6 +82,8 @@ Additionally, a newsletter covering updates on the Observatory.
 ### What future is the Observatory observing towards? (i.e., vision)
 A knowledge graph of entities that can be used by multiple apps and stakeholders for their knowledge work.
 
+Making a searchable dashboard. Maybe like https://twitter.com/dmihal/status/1389960811020488708
+
 
 ## Glossary
 
@@ -145,6 +147,7 @@ Additionally, a newsletter covering updates on the Glossary.
 ### What future is the Glossary defining towards? (i.e., vision)
 A knowledge graph of terms that can be used by multiple apps and stakeholders for their knowledge work.
 
+Making a searchable dashboard. Maybe like https://twitter.com/dmihal/status/1389960811020488708
 
 
 ## Tools
@@ -209,4 +212,7 @@ A quick [preview of the database](https://docs.google.com/spreadsheets/d/1I6yofZ
 Additionally, a newsletter covering updates on the Tools.
 
 ### What future is the Tools functioning towards? (i.e., vision)
-A knowledge graph of tools that can be used in multiple contexts
+A knowledge graph of tools that can be used in multiple contexts.
+
+Making a searchable dashboard. Maybe like https://twitter.com/dmihal/status/1389960811020488708
+
