@@ -12,3 +12,4 @@ A list of Web3 and Tokenization experiments I have been thinking about.
 6. $SCHOLAR tokens to  advance the scholarly currency network (mentioned in SDCI slides)
 7. Minting an NFT of an article and auctioning it off
 8. Tokenizing quizzes
+9. **Prediction market** for Knowledge Frontier 

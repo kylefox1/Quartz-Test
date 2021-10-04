@@ -248,6 +248,8 @@ Together, the alternatives can show a new path to developing ML models that bene
 
 For example, Brave Coop (tech coop) can use Eleuther AI’s GPT-NEO to develop chatbots for _????_
 
+For example, **Catalyst Cooperative can provide ETL pipeline for data that is then used by an AI commons to develop a tool.**
+
 ### Examples
 
 The examples for this article include:
