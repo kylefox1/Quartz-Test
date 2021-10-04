@@ -14,6 +14,10 @@ This digital garden is primarily for my work on/for the [Ledgerback Digital Comm
 
 - [Courses-Ideas-2021_0925-V0.1](./Garden-1/Courses-Ideas-2021_0925-V0.1.md)
 
+## Tokenization 
+
+- [Ideas](./Garden-1/TokenizationExperiments-2021_0930-V0.1.md)
+
 ## Knowledgebases
 
 - [Knowledgebases](./Garden-1/Knowledgebases-2021_0925-V0.1.md)

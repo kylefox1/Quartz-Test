@@ -15,19 +15,20 @@ Alternatively, I might turn these into podcasts.
 ## Drafts
 `very early stage right now`
 1. [**Networked Scholar Toolbox & Guide**](https://docs.google.com/document/d/1JIF0ClF5tmDcc8AOo8j1KdlVau6AgSr11aup_B5e7VA/edit?usp=sharing)
-2. [Tools for thought and cooperatives-2021_0925-V0.1](Garden-1/Tools%20for%20thought%20and%20cooperatives-2021_0925-V0.1.md)
+3. [Tools_for_thought_and_cooperatives-2021_0925-V0.1](Garden-1/Tools_for_thought_and_cooperatives-2021_0925-V0.1.md)
 4. [Bikestream-2021_0925-V0.1](Garden-1/Bikestream-2021_0925-V0.1.md)
 6. [Rise of Education Platform Coops-2021_0925-V0.1](Garden-1/Rise%20of%20Education%20Platform%20Coops-2021_0925-V0.1.md)
 7. [Data Cooperatives and AI Commons-2021_0925-V0.1](Garden-1/Data%20Cooperatives%20and%20AI%20Commons-2021_0925-V0.1.md)
-11. [Measuring progress toward the global tech commonwealth-2021_0925-V0.1](Garden-1/Measuring%20progress%20toward%20the%20global%20tech%20commonwealth-2021_0925-V0.1.md)
-12. [Delivery co-ops taking on GrubHub and others-2021_0925-V0.1](Garden-1/Delivery%20co-ops%20taking%20on%20GrubHub%20and%20others-2021_0925-V0.1.md)
-13. [Cooperativism_Web3 -2021_0925-V0.1](Garden-1/Cooperativism_Web3 -2021_0925-V0.1.md)
-14. [Laplace-2021-0925-V0.1](Garden-1/Laplace-2021-0925-V0.1.md)
+12. [Measuring_progress_toward_the_global_tech_commonwealth-2021_0925-V0.1](Garden-1/Measuring_progress_toward_the_global_tech_commonwealth-2021_0925-V0.1.md)
+13. [Delivery co-ops taking on GrubHub and others-2021_0925-V0.1](Garden-1/Delivery%20co-ops%20taking%20on%20GrubHub%20and%20others-2021_0925-V0.1.md)
+14. [Cooperativism_Web3 -2021_0925-V0.1](Garden-1/Cooperativism_Web3 -2021_0925-V0.1.md)
+15. [TokenizationExperiments-2021_0930-V0.1](Garden-1/TokenizationExperiments-2021_0930-V0.1.md)
+16. [Laplace-2021-0925-V0.1](Garden-1/Laplace-2021-0925-V0.1.md)
 	1. I have my thoughts mostly down but need to make a short introductory article
 
 
 ## Ideas
-
+`steal them. I'll edit/proofread if you want.`
 1. [NILS-V2-2021_0921-V0.1](Garden-1/NILS-V2-2021_0921-V0.1.md)
 2. Blockchain and digital identity
 3. Blockchain and insurance
