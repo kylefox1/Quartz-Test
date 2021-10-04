@@ -13,6 +13,7 @@ This digital garden is primarily for my work on/for the [Ledgerback Digital Comm
 ## Courses
 
 - [Courses-Ideas-2021_0925-V0.1](./Garden-1/Courses-Ideas-2021_0925-V0.1.md)
+- [Intro to Platform Coops Parts 2 & 3](./Garden-1/PlatCoop-Parts2_3-2021_1004-V0.1.md)
 
 ## Tokenization 
 
