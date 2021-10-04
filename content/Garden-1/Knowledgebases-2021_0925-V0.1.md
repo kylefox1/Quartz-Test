@@ -84,6 +84,8 @@ A knowledge graph of entities that can be used by multiple apps and stakeholders
 
 Making a searchable dashboard. Maybe like https://twitter.com/dmihal/status/1389960811020488708 & https://openorgs.info/
 
+Provides a public API for easy access to data.
+
 
 ## Glossary
 
@@ -148,6 +150,8 @@ Additionally, a newsletter covering updates on the Glossary.
 A knowledge graph of terms that can be used by multiple apps and stakeholders for their knowledge work.
 
 Making a searchable dashboard. Maybe like https://twitter.com/dmihal/status/1389960811020488708 & https://openorgs.info/
+
+Provides a public API for easy access to data.
 
 
 ## Tools
@@ -216,3 +220,4 @@ A knowledge graph of tools that can be used in multiple contexts.
 
 Making a searchable dashboard. Maybe like https://twitter.com/dmihal/status/1389960811020488708 & https://openorgs.info/
 
+Provides a public API for easy access to data.
