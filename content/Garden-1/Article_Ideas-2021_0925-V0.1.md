@@ -1,7 +1,19 @@
 ---
 title: "Article Ideas"
 ---
+```markdown
+- stage: 🌱 _Seedlings_
+- Version: 0.1
+- Topic:
+	-  Web3, Education 
+- Confidence: Very Confident
+- Credibility: Highly Credible
+- date
+	-  start: 2021-09-25
+	-  end: 2021-10-08
+-  importance: 7
 
+```
 # Articles
 
 Here are some article drafts and ideas I have been working on for the past 2 months.
@@ -24,7 +36,7 @@ Alternatively, I might turn these into podcasts.
 14. [Cooperativism_Web3 -2021_0925-V0.1](Garden-1/Cooperativism_Web3 -2021_0925-V0.1.md)
 15. [TokenizationExperiments-2021_0930-V0.1](Garden-1/TokenizationExperiments-2021_0930-V0.1.md)
 16. [Laplace-2021-0925-V0.1](Garden-1/Laplace-2021-0925-V0.1.md)
-	1. I have my thoughts mostly down but need to make a short introductory article
+	1. I have my thoughts mostly down but need to make a short 1-pager
 
 
 ## Ideas

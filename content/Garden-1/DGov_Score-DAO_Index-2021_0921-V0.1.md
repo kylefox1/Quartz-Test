@@ -1,7 +1,19 @@
 ---
 title: "DAO Index"
 ---
+```markdown
+- stage: 🌱 _Seedlings_
+- Version: 0.1
+- Topic:
+	-  Web3, DAOs, Ratings 
+- Confidence: Very Confident
+- Credibility: Highly Credible
+- date
+	-  start: 2021-09-21
+	-  end: 2021-10-08
+-  importance: 10
 
+```
 # DGov Score
 
 ## Introduction

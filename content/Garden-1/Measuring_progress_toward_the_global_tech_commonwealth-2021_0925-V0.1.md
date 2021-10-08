@@ -47,6 +47,7 @@ I think we can measure progress by using these indicators:
 7. Count/growth of educational, grey or academic materials (especially convergent materials) 
 8. Count/growth of public goods
 9. Count/growth of events
+10. change in solutions based on impact and readiness 
 
 I think these indicators are consistent with the GTC's Definition and Design Principles.
 

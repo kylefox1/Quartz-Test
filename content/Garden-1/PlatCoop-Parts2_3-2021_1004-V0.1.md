@@ -399,38 +399,38 @@ Social contract -> digital rights
 1.  Governance
     
 
-1.  Stakeholder engagement
-    
-2.  Dispute resolution
-    
+	1.  Stakeholder engagement
 
-3.  Content/Speech
+	2.  Dispute resolution
+
+
+	1.  Content/Speech
     
 
 1.  Content moderation
     
-2.  Algorithmic social feeds and content curation
-    
-3.  Advertising content and targeted advertisements
-    
-4.  Censorship demands (e.g., copyright strikes)
+	2.  Algorithmic social feeds and content curation
+
+	3.  Advertising content and targeted advertisements
+
+	1.  Censorship demands (e.g., copyright strikes)
     
 
 5.  Privacy
     
 
-1.  Mention article on how useless privacy policy is
-    
-2.  Mention article on how companies are not incentivized to keep user data secure (article on Equifax data breach)
-    
-3.  Giving information to governments 
-    
-4.  Mention article on development of GDPR and CCPA 
-    
+	1.  Mention article on how useless privacy policy is
+
+	2.  Mention article on how companies are not incentivized to keep user data secure (article on Equifax data breach)
+
+	3.  Giving information to governments 
+
+	4.  Mention article on development of GDPR and CCPA 
+
 
   
 
-Schedule an interview with a researcher on a paper you like. 
+
 
   
 
@@ -716,11 +716,11 @@ Videos
 
   
 
-# 5. Creator Economy
+## 5. Creator Economy
 
   
 
-## Materials: 2.Z - 2.A
+### Materials: 2.Z - 2.A
 
   
 
@@ -745,7 +745,7 @@ Videos
 11.    
     
 
-## Quiz: 2.B. - 2.C
+### Quiz: 2.B. - 2.C
 
   
 
@@ -756,9 +756,9 @@ Videos
 15.  What are the differences between an employee and an independent contractor?
     
 
-## Essay prompt: 2.D
+### Essay prompt: 2.D
 
-## More Resources: 2.E - 2.F
+### More Resources: 2.E - 2.F
 
   
 
@@ -821,7 +821,7 @@ Videos
     
 16.  [https://www.vice.com/en/article/538kan/apple-just-banned-the-app-that-tracks-us-drone-strikes-again](https://www.vice.com/en/article/538kan/apple-just-banned-the-app-that-tracks-us-drone-strikes-again)
     
-17.    
+17.    [# Facebook knows Instagram is bad for teenagers' mental health](https://www.businessinsider.com/facebook-internal-report-shows-instagram-bad-for-teens-2021-9?op=1)
     
 
 12.  Questions:
@@ -1319,7 +1319,7 @@ Readings
     
 49.  [https://www.nfx.com/post/network-effects-archives/](https://www.nfx.com/post/network-effects-archives/)
     
-50.    
+50.    **[Mechanisms of intermediary platforms](https://assets.bosch.com/media/global/research/eot/bosch-eot-mechanisms-of-intermediary-platforms.pdf)**
     
 
 Videos
@@ -1383,7 +1383,65 @@ Readings
     
 54.  [https://www.consilienceproject.org/taiwans-digital-democracy/](https://www.consilienceproject.org/taiwans-digital-democracy/)
     
-55.    
+55.   [ # Edward Snowden: the whistleblower behind the NSA surveillance revelations](https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance)
+    
+56.    [# Google, Amazon, and Microsoft have taken advantage of a commonly used but little-known tool to quietly enter dozens of contracts with ICE and CBP](https://www.businessinsider.com/google-amazon-microsoft-ice-cbp-third-party-contracts-cloud-2021-10)
+    
+
+Videos
+
+9.  [Reclaiming Work: The Cycle Couriers Subverting The Gig Economy](https://www.youtube.com/watch?v=I0Z5PBgwu60)
+    
+
+1.  Minutes X:XX - Y:YY
+    
+
+## Quiz: 2.B. - 2.C
+
+  
+
+40.  What is digital labor?
+    
+41.  What are the types of digital labor?
+    
+42.  What are the differences between an employee and an independent contractor?
+    
+
+## Essay prompt: 2.D
+
+## More Resources: 2.E - 2.F
+
+  
+
+-   Readings
+    
+
+1.  [Rethinking Microwork: the Invisible Labour of the Platform Economy](https://autonomy.work/wp-content/uploads/2020/09/Jones.pdf)
+    
+2.  [From a Wage to a Wager: Dynamic Pricing in the Gig Economy](https://autonomy.work/wp-content/uploads/2020/09/VanDoorn.pdf): pp. 3 - 6
+    
+3.  [Digital Labor Studies Go Global:Toward a Digital Decolonial Turn](https://ijoc.org/index.php/ijoc/article/viewFile/6349/2149): pp 2 - 10
+    
+
+-   Videos
+    
+
+1.  As
+    
+
+  
+  
+  # 15. Digital infrastructure
+
+Collab consumption 
+
+## Materials: 2.Z - 2.A
+
+  
+
+Readings
+
+51.  [Democratic Digital Infrastructure](https://www.common-wealth.co.uk/reports/democratic-digital-infrastructure)
     
 56.    
     
@@ -1429,6 +1487,8 @@ Videos
 1.  As
     
 
+  
+  
   
   
   
@@ -1648,11 +1708,11 @@ Read the quiz questions before starting on the materials.
 2.  What are platform coops?
     
 
-1.  Definition 
-    
-2.  Types 
-    
-3.  Issues 
+	1.  Definition 
+
+	2.  Types 
+
+	3.  Issues 
     
 
 4.  Scaling strategies 
@@ -2049,7 +2109,70 @@ Videos
 1.  As
     
 
+  # 9. Web3 Intersections 
+
   
+
+## Materials: 2.Z - 2.A
+
+  
+
+Readings
+
+45.  [# Decentralisation at Work: Cooperatives on the Blockchain](https://www.dgen.org/blog/decentralisation-at-work-cooperatives-on-blockchain)
+    
+46.    -   [Venture capital formation for software cooperatives](https://svrgn.substack.com/p/venture-capital-formation-for-software)
+    
+47.    
+    
+48.    
+    
+49.    
+    
+50.    
+    
+
+Videos
+
+5.  [Reclaiming Work: The Cycle Couriers Subverting The Gig Economy](https://www.youtube.com/watch?v=I0Z5PBgwu60)
+    
+
+1.  Minutes X:XX - Y:YY
+    
+
+## Quiz: 2.B. - 2.C
+
+  
+
+13.  What is digital labor?
+    
+14.  What are the types of digital labor?
+    
+15.  What are the differences between an employee and an independent contractor?
+    
+
+## Essay prompt: 2.D
+
+## More Resources: 2.E - 2.F
+
+  
+
+-   Readings
+    
+
+1.  [Rethinking Microwork: the Invisible Labour of the Platform Economy](https://autonomy.work/wp-content/uploads/2020/09/Jones.pdf)
+    
+2.  [From a Wage to a Wager: Dynamic Pricing in the Gig Economy](https://autonomy.work/wp-content/uploads/2020/09/VanDoorn.pdf): pp. 3 - 6
+    
+3.  [Digital Labor Studies Go Global:Toward a Digital Decolonial Turn](https://ijoc.org/index.php/ijoc/article/viewFile/6349/2149): pp 2 - 10
+    
+
+-   Videos
+    
+
+1.  As
+    
+
   
   
   

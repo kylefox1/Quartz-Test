@@ -276,7 +276,11 @@ Our next work after developing the Databike Zeta 001 will be some additional wor
 4. use an open source bikesharing/booking mobile app with databikes, and
 5. develop a data cooperative model for member-based services and products.
 
+Additional stuff:
 
+1. Mention in Kickstarter that we will develop BikePi and go with Pony business model, develop marketplaces (training plans and events), will develop prototype with Adalo, making jupyter notebooks, and develop library (or a wiki) and put out a newsletter.
+2. wallet with fuse
+3. streaming tokens with Superfluid
 
 ### What future is the Bikestream project cycling towards? (i.e., vision)
 
@@ -323,3 +327,31 @@ We plan to make our outputs open-source and prvodie assistannce to people develo
 
 1.  [Dr Mark Taylor](https://www.napier.ac.uk/people/mark-taylor), [Databike: Good and bad vibrations](https://www.napier.ac.uk/research-and-innovation/impact-case-studies/databike)
 2.  [https://www.mdpi.com/1424-8220/21/14/4636](https://www.mdpi.com/1424-8220/21/14/4636)
+
+---
+
+# Crowdfund
+
+1. what will we  do?
+2. why crowdfund?
+	1.  benefits for crowdfunders
+	2.  what money will get used for
+
+## what will we  do?
+
+Additional stuff:
+
+1. develop BikePi and 
+2. go with Pony business model, 
+3. develop marketplaces (training plans and events), 
+4. will develop prototype with Adalo for bikesharing (and look for open source versions), 
+5. develop data-schema and databike/stremcycle schema 
+6. making jupyter notebooks, and 
+7. wallet with Fuse 
+8. develop library (or a wiki) and 
+9. put out a newsletter.
+10. apply to grants
+
+##  why crowdfund?
+### benefits for crowdfunders
+### what money will get used for
