@@ -16,7 +16,7 @@ I am [drawn to working on many things at once](https://twitter.com/dhof/status/1
 	- Glossary 
 	- Observatory 
 	- Tools
-- [An Internet of Brains]()
+- [An Internet of Brains or A Cognitive Internet]()
 - [Bikestream]()
 - [Laplace]()
 - [Distroid](https://distroid.substack.com/)
@@ -103,4 +103,6 @@ I am trying a new version of the assessment based on the Framework that disconne
 2. Performance.
 
 - [Notes](./Garden-1/DGov_Score-DAO_Index-2021_0921-V0.1.md)
+
+Will this lead to a [decentralized, polycentric system of legitimacy](https://samoburja.com/intellectual-legitimacy/)?
 
