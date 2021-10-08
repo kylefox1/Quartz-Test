@@ -104,5 +104,5 @@ I am trying a new version of the assessment based on the Framework that disconne
 
 - [Notes](./Garden-1/DGov_Score-DAO_Index-2021_0921-V0.1.md)
 
-Will this lead to a [decentralized, polycentric system of legitimacy](https://samoburja.com/intellectual-legitimacy/)?
+Will this lead to a [decentralized, polycentric, democratic system of legitimacy](https://samoburja.com/intellectual-legitimacy/)?
 
