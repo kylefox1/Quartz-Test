@@ -1258,11 +1258,12 @@ Readings
 45.  [http://www.project-disco.org/competition/081513-rent-seeking-and-the-internet-economy-part-1-why-is-the-internet-so-frequently-the-target-of-rent-seekers/](http://www.project-disco.org/competition/081513-rent-seeking-and-the-internet-economy-part-1-why-is-the-internet-so-frequently-the-target-of-rent-seekers/)
     
 46.  [https://www.investopedia.com/terms/r/rentseeking.asp](https://www.investopedia.com/terms/r/rentseeking.asp)
+47.  # [Collaborative Economy Companies Need To Start Sharing More Value With The People Who Make Them Valuable](https://www.fastcompany.com/3038476/collaborative-economy-companies-need-to-start-sharing-more-value-with-the-people-who-make-th "Collaborative Economy Companies Need To Start Sharing More Value With The People Who Make Them Valuable")
     
 
 Videos
 
-7.  [Reclaiming Work: The Cycle Couriers Subverting The Gig Economy](https://www.youtube.com/watch?v=I0Z5PBgwu60)
+7.  [# The Next Sharing Economy](https://www.youtube.com/watch?v=xpg4PjGtbu0)
     
 
 1.  Minutes X:XX - Y:YY
@@ -1850,7 +1851,7 @@ Readings
 
 Videos
 
-2.  [Reclaiming Work: The Cycle Couriers Subverting The Gig Economy](https://www.youtube.com/watch?v=I0Z5PBgwu60)
+2.  [# A COOPERATIVE STORY N° 8 UP & GO, NEW YORK, USA](https://www.youtube.com/watch?v=7QnB_jwcl3E)
     
 
 1.  Minutes X:XX - Y:YY
@@ -2123,7 +2124,7 @@ Readings
     
 46.    -   [Venture capital formation for software cooperatives](https://svrgn.substack.com/p/venture-capital-formation-for-software)
     
-47.    
+47.    [Locking the Web Open with Decentralizing Tech and Platform Co-ops](https://www.shareable.net/14-open-source-photography-tools/)
     
 48.    
     

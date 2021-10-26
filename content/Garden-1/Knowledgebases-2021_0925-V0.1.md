@@ -1,19 +1,21 @@
 ---
-title: "Knowledgebase Previews"
+title: "dataset  Previews"
 ---
 
-# Knowledgebases
+# datasets
 
-I am working on a couple knowledgebases for Ledgerback's Library.
+I am working on a couple datasets for Ledgerback's Library.
 
-The knowledgebases are:
+These datasets will help map the space and hopefully make it searchable. May also include some lit. rev.'s (scholarly/text network analysis )
 
-1. Observatory (a knowledgebase monitoring convergent (connection and integration) and pluralistic actors, organizations, movements, events, protocols, networks and more in the alternative internet (i.e., decentralized web, indieweb, Web3, distributed web)),
+The datasets are:
+
+1. Observatory (a dataset  monitoring convergent (connection and integration) and pluralistic actors, organizations, movements, events, protocols, networks and more in the alternative internet (i.e., decentralized web, indieweb, Web3, distributed web)),
 	1. `mayve name this the DWeb Convergence Observatory`
-2. Glossary (a knowledgebase constructing a convergent glossary of terms  that span and link across communities in the alternative internet, and grey and academic literature),
-3. Tools ( a knowledgebase of tools for spanning  the alternative internet, including communities, data-driven apps, social tech, study resources, and more ),
+2. Glossary (a dataset  constructing a convergent glossary of terms  that span and link across communities in the alternative internet, and grey and academic literature),
+3. Tools ( a dataset  of tools for spanning  the alternative internet, including communities, data-driven apps, social tech, study resources, and more ),
 4. [DGov_Score-DAO_Index-2021_0921-V0.1](Garden-1/DGov_Score-DAO_Index-2021_0921-V0.1.md)
-5. Question&Answer (Q&A)
+5. FAQs
 	1. probably use for a NLP Q&A system demo
 6. Global Tech Commonwealth (GTC) Index
 7. Convergence Lit. Rev.
@@ -43,7 +45,7 @@ As always, send your feedback to my [Twitter](https://twitter.com/CAdjovu) accou
 
 ### What is the Observatory
 
-A knowledgebase monitoring convergent (connection and integration) and pluralistic entities (actors, organizations, movements, events, protocols, networks and more) in the alternative internet (i.e., decentralized web, indieweb, Web3, distributed web).
+A dataset  monitoring convergent (connection and integration) and pluralistic entities (actors, organizations, movements, events, protocols, networks and more) in the alternative internet (i.e., decentralized web, indieweb, Web3, distributed web).
 
 ### What are the problems that the Observatory anticipates addressing?
 
@@ -67,9 +69,9 @@ The problems we will specifically address are:
 
 ##### Initial plan to address them
 
-1. Create a database to map entities and relationships
-	1. Open database to public for crowdsourcing
-2. connect database schema to 3rd party databases
+1. Create a dataset to map entities and relationships
+	1. Open dataset to public for crowdsourcing
+2. connect dataset schema to 3rd party datasets
 3. 
 
 
@@ -77,7 +79,7 @@ The problems we will specifically address are:
 
 ### What work is coming out soon from of the Observatory project?
 
-A quick preview of the database and a contribution guide.
+A quick preview of the dataset and a contribution guide.
 
 Additionally, a newsletter covering updates on the Observatory.
 
@@ -105,7 +107,7 @@ Provides a public API for easy access to data.
 
 ### What is the Glossary
 
-A knowledgebase constructing a convergent glossary of terms that span and link across communities in the decentralized web, and grey and academic literature.
+A dataset  constructing a convergent glossary of terms that span and link across communities in the decentralized web, and grey and academic literature.
 
 ### What are the problems that the Glossary anticipates addressing?
 
@@ -134,9 +136,9 @@ The problems we will specifically address are:
 
 ##### Initial plan to address them
 
-1. Create a database to map terms and relationships
-	1. Open database to public for crowdsourcing
-2. connect database schema to 3rd party databases
+1. Create a dataset to map terms and relationships
+	1. Open dataset to public for crowdsourcing
+2. connect dataset schema to 3rd party datasets
 3. 
 
 
@@ -146,7 +148,7 @@ The problems we will specifically address are:
 
 ### What work is coming out soon from of the Glossary project?
 
-A quick [preview of the database](https://docs.google.com/spreadsheets/d/1JI_t4EXK9fkF2bMt9QE9iNHcJf-sYUvCfmp0Ecp-x4o/edit?usp=sharing) (preview excludes most of the advanced fields) and a contribution guide.
+A quick [preview of the dataset](https://docs.google.com/spreadsheets/d/1JI_t4EXK9fkF2bMt9QE9iNHcJf-sYUvCfmp0Ecp-x4o/edit?usp=sharing) (preview excludes most of the advanced fields) and a contribution guide.
 
 Additionally, a newsletter covering updates on the Glossary.
 
@@ -174,7 +176,7 @@ Provides a public API for easy access to data.
 
 ### What is the Tools?
 
-A knowledgebase of tools for spanning old and new functions in the decentralized web, including communities, data-driven apps, social tech, study resources, and more.
+A dataset  of tools for spanning old and new functions in the decentralized web, including communities, data-driven apps, social tech, study resources, and more.
 
 ### What are the problems that the Tools anticipates addressing?
 
@@ -202,9 +204,9 @@ The problems we will specifically address are:
 
 ##### Initial plan to address them
 
-1. Create a database to map tools and relationships
-	1. Open database to public for crowdsourcing
-2. connect database schema to 3rd party databases
+1. Create a dataset to map tools and relationships
+	1. Open dataset to public for crowdsourcing
+2. connect dataset schema to 3rd party datasets
 3. 
 
 
@@ -215,7 +217,7 @@ The problems we will specifically address are:
 
 ### What work is coming out soon from of the Tools project?
 
-A quick [preview of the database](https://docs.google.com/spreadsheets/d/1I6yofZNwbZ50ubsyy9x3C89b5KtBIMgXr4GyOgB2YR0/edit?usp=sharing)  (preview excludes most of the advanced fields) and a contribution guide.
+A quick [preview of the dataset](https://docs.google.com/spreadsheets/d/1I6yofZNwbZ50ubsyy9x3C89b5KtBIMgXr4GyOgB2YR0/edit?usp=sharing)  (preview excludes most of the advanced fields) and a contribution guide.
 
 Additionally, a newsletter covering updates on the Tools.
 

@@ -37,6 +37,8 @@ Alternatively, I might turn these into podcasts.
 15. [TokenizationExperiments-2021_0930-V0.1](Garden-1/TokenizationExperiments-2021_0930-V0.1.md)
 16. [Laplace-2021-0925-V0.1](Garden-1/Laplace-2021-0925-V0.1.md)
 	1. I have my thoughts mostly down but need to make a short 1-pager
+17. [Conference Ideas ](Garden-1/Conference_Ideas-2021_0925-V0.1.md)
+18. [Awards-2021_1022-V0.1](Garden-1/Awards-2021_1022-V0.1.md)
 
 
 ## Ideas
@@ -71,7 +73,8 @@ Alternatively, I might turn these into podcasts.
 	1. https://basicincome.org/news/2017/05/netherlands-radical-new-way-fund-science/
 35. AMMs for rewards programs. (Buy X amount, portion of money spent gets turned into reward tokens ($Rewards), which gives cheaper deals on other stuff)
 36. Knowledge curation videogames
-37. Ledgerback-School
+37. Small introductory tutorials on Dune analytics 
+38. Ledgerback-School
 	1. prepare people for alternative internet or industry 4.0 or moving towards GTC?
 		1. same format as courses?
 		2. Philosopher's journey?

@@ -279,8 +279,11 @@ Our next work after developing the Databike Zeta 001 will be some additional wor
 Additional stuff:
 
 1. Mention in Kickstarter that we will develop BikePi and go with Pony business model, develop marketplaces (training plans and events), will develop prototype with Adalo, making jupyter notebooks, and develop library (or a wiki) and put out a newsletter.
+	1. BikePi like [Home Assistant Amber](https://www.crowdsupply.com/nabu-casa/home-assistant-amber)
 2. wallet with fuse
 3. streaming tokens with Superfluid
+4. a toolkit for the selection, visualization, and easy combination of telematics data from e-bikes with other data sources. 
+5. > [ZF offers a toolkit for the selection, visualization, and easy combination of telematics data from trucks with other data sources. These data sets can be used, for instance, to create forecasts of the impact of trucks on air quality or road traffic.](https://mobility-dataspace.eu/use-cases)
 
 ### What future is the Bikestream project cycling towards? (i.e., vision)
 

@@ -16,7 +16,7 @@ I am [drawn to working on many things at once](https://twitter.com/dhof/status/1
 	- Glossary 
 	- Observatory 
 	- Tools
-- [An Internet of Brains or A Cognitive Internet]()
+- [An Internet of Brains or A Co-gnitive Internet or A Meta-Cognition Network]()
 - [Bikestream]()
 - [Laplace]()
 - [Distroid](https://distroid.substack.com/)
@@ -36,6 +36,7 @@ I am mostly working on curating resources at the moment.
 
 ## Additional Interests
 
+- Tools for Thought (Collective & Individual) & Intelligence Amplification
 - Web3 & Co-ops
 	- [Blockchain and the Rise of the Internet Cooperative](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3750540)
 - Decentralized Internet and the Law

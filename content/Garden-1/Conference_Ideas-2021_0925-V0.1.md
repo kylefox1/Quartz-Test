@@ -25,3 +25,46 @@ Conferences I am examining in setting up the conference are:
 1. [Metascience]()
 2. [Knowledge Graph Conference]()
 3. [WAIM]()
+
+# 2021-10-22 Update
+## Ledgerback Conference 2022
+
+  
+
+-   Theme: convergence in DWeb
+    
+-   Calls: speakers & essays
+    
+
+-   Speakers: 
+    
+
+	-   how field converges DWeb 
+
+	-   tool tutorial that converges DWeb
+
+
+-   Essays: 
+    
+
+	-   how convergence occurs in DWeb and up/downsides to convergence 
+
+	-   up/downsides to convergence approach in research on DWeb
+    
+
+-   Task: generate research questions and find common themes 
+    
+-   Award:
+	-   Convergence awards
+
+
+		-   Connection
+
+		-   Integration
+    
+
+
+
+
+
+**

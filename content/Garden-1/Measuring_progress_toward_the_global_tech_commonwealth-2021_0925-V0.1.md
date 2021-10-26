@@ -1,6 +1,22 @@
 ---
 title: "Measuring progress toward the global tech commonwealth"
 ---
+```markdown
+- stage: 🌱 _Seedlings_
+- Version: 0.1
+- Topic:
+	-  Web3, Commons
+- Confidence: Neutral 
+- Credibility: Neutral 
+- date
+	-  start: 2021-09-25
+	-  end: 2021-10-25
+-  importance: 7
+
+```
+
+
+---
 
 # Tracking %%Measuring%% progress toward the global tech commonwealth
 An article on how to track %%measuring%% progress toward the global tech commonwealth.

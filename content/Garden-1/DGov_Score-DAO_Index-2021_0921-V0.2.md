@@ -14,7 +14,7 @@ title: "DAO Index"
 -  importance: 10
 
 ```
-# DAO-Index: Principles Rating
+# DAO-Index: Principles/Accountability Rating
 Specifically for ==principles rating==.
 ## V0.2 Update
 
