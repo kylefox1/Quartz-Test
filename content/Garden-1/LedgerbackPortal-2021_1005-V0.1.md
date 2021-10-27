@@ -80,6 +80,7 @@ The Ledgerback portal will:
 3. [Santiment](https://app.santiment.net/)
 4. [Etherscan](https://etherscan.io/)
 5. [Coingecko](https://www.coingecko.com/en)
+6. [DeepDAO](https://www.deepdao.io/)
 
 
 ### Social 
@@ -128,19 +129,20 @@ The Ledgerback portal will:
   36.  [# The Web We Lost](https://anildash.com/2012/12/13/the_web_we_lost/)
   37.  [Decentralized Autonomous Organization](https://policyreview.info/pdf/policyreview-2021-2-1556.pdf)
  
- ##### Tutorials and Guides 
+ #### Tutorials and Guides 
  
  1. [DO YOU NEED A BLOCKCHAIN?](https://spectrum.ieee.org/do-you-need-a-blockchain)
  2. [# DeFi Security 101](https://thedefiant.io/defi-security-101/)
  3. [# Blockchain terminology](https://bisontrails.co/terminology/)
  4. [Crypto for Beginners: All the Resources You Need to Get Started](https://cryptotesters.com/blog/crypto-for-beginners)
  5. [Darren Lau 👘 on Twitter: "Got a few friends asking what they should be reading / resources to get started so here's my take on it: Basic Skill Tree for those looking to get into crypto 👇 Feel free to comment if there's anything that I should add! Retweet if helpful 🙌"](https://twitter.com/Darrenlautf/status/1434877372700901384)
+ 6. [# The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
  
- ##### Books 
+ #### Books 
  
  1. [Token Economy - Second Edition](https://github.com/Token-Economy-Book/)
   
- ##### Libraries & Schools 
+ #### Libraries & Schools 
   
  1. [Blockchainhub Berlin](https://blockchainhub.net/)
  2. [The Blockchain Education Network (BEN)](https://learn.blockchainedu.org/all-courses)
@@ -155,11 +157,18 @@ The Ledgerback portal will:
  11. [Forefront Learn](https://forefront.market/learn)
  12. [Cryptotesters Academy](https://cryptotesters.com/academy)
  13. [useWeb3](https://www.useweb3.xyz/)
-
- ##### Visualizations
+ 14. [Pentacle](https://pentacle.xyz/)
+ 15. [Zero Knowledge Education](https://zkeducation.eth.link/)
+ 16. [Figment Learn](https://learn.figment.io/)
+ 17. [Decentralised.co's Reading List](https://www.decentralised.co/the-reading-list/)
+ #### Visualizations
 1. **[Decentralized Technology Ecosystem](https://kumu.io/DigLife/decentralized-tech#ecosystem/c12f0b25-641b-4d22-9c2e-b56908d96c15)**
 2. [DAO landscape](https://twitter.com/Cooopahtroopa/status/1408158533783228416)
 3. [TxStreet](https://txstreet.com/?__cf_chl_jschl_tk__=pmd_h6GCtJijEK1USZVYwB1.UCG7LuqHzLresT6jfLRNHls-1634024556-0-gqNtZGzNAfujcnBszQg9)
+
+#### Search Engines
+
+1. [Almonit](https://almonit.eth.link/#/discover/)
 
 ---
 ## Platform Cooperativism
@@ -171,7 +180,7 @@ The Ledgerback portal will:
 
 #### Social 
 
-1. [Twitter Accounts to Follow]()
+1. [Co-op Understanders](https://twitter.com/i/lists/1433101289840332801) Twitter List
 
 
 #### Analysis 
@@ -357,7 +366,7 @@ Helium, Althea, Comons think tanlk
 
 ##### 101s
   
-  1. 
+  1. [# What is a Distributed Knowledge Graph?](https://notes.knowledgefutures.org/pub/belji1gd/release/2)
  
 ##### Tutorials and Guides 
 
@@ -366,4 +375,10 @@ Helium, Althea, Comons think tanlk
 ## Intersections 
 ### Web3 & Platform Cooperatives
 
-1. 
+1. [Venture capital formation for software cooperatives](https://svrgn.substack.com/p/venture-capital-formation-for-software)
+2. Nathan Schneider's [Exit to Community](https://hackernoon.com/startups-need-a-new-option-exit-to-community-ig12v2z73),
+2. Jesse Walden’s [The Ownership Economy](https://variant.fund/the-ownership-economy-crypto-and-consumer-software/),
+3. Kei Kreutler's [A Prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q).
+4. Joshua Davila's [Decentralisation at Work: Cooperatives on the Blockchain](https://www.dgen.org/blog/decentralisation-at-work-cooperatives-on-blockchain)
+5. [Web3, Blockchain & Co-ops](https://twitter.com/i/lists/1400909414370971649) Twitter List
+6. [Digital cooperatives are the future](https://medium.com/nexus-mutual/digital-cooperatives-are-the-future-2b0772c1e03a)
