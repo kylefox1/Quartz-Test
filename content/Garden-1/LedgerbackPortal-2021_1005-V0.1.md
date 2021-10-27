@@ -129,7 +129,7 @@ The Ledgerback portal will:
   36.  [# The Web We Lost](https://anildash.com/2012/12/13/the_web_we_lost/)
   37.  [Decentralized Autonomous Organization](https://policyreview.info/pdf/policyreview-2021-2-1556.pdf)
  
- #### Tutorials and Guides 
+#### Tutorials and Guides 
  
  1. [DO YOU NEED A BLOCKCHAIN?](https://spectrum.ieee.org/do-you-need-a-blockchain)
  2. [# DeFi Security 101](https://thedefiant.io/defi-security-101/)
@@ -138,11 +138,11 @@ The Ledgerback portal will:
  5. [Darren Lau 👘 on Twitter: "Got a few friends asking what they should be reading / resources to get started so here's my take on it: Basic Skill Tree for those looking to get into crypto 👇 Feel free to comment if there's anything that I should add! Retweet if helpful 🙌"](https://twitter.com/Darrenlautf/status/1434877372700901384)
  6. [# The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
  
- #### Books 
+#### Books 
  
  1. [Token Economy - Second Edition](https://github.com/Token-Economy-Book/)
   
- #### Libraries & Schools 
+#### Libraries & Schools 
   
  1. [Blockchainhub Berlin](https://blockchainhub.net/)
  2. [The Blockchain Education Network (BEN)](https://learn.blockchainedu.org/all-courses)
@@ -161,12 +161,13 @@ The Ledgerback portal will:
  15. [Zero Knowledge Education](https://zkeducation.eth.link/)
  16. [Figment Learn](https://learn.figment.io/)
  17. [Decentralised.co's Reading List](https://www.decentralised.co/the-reading-list/)
- #### Visualizations
+ 
+ ### Visualizations
 1. **[Decentralized Technology Ecosystem](https://kumu.io/DigLife/decentralized-tech#ecosystem/c12f0b25-641b-4d22-9c2e-b56908d96c15)**
 2. [DAO landscape](https://twitter.com/Cooopahtroopa/status/1408158533783228416)
 3. [TxStreet](https://txstreet.com/?__cf_chl_jschl_tk__=pmd_h6GCtJijEK1USZVYwB1.UCG7LuqHzLresT6jfLRNHls-1634024556-0-gqNtZGzNAfujcnBszQg9)
 
-#### Search Engines
+### Search Engines
 
 1. [Almonit](https://almonit.eth.link/#/discover/)
 
@@ -213,7 +214,7 @@ The Ledgerback portal will:
  6. [Platform Co-op  Resource Library](https://resources.platform.coop/)
  7. [Cooperative Educators Network (CENet)](http://ed.coop/)
 
-
+---
 
 ## Tools for Thought 
 
@@ -255,6 +256,9 @@ The Ledgerback portal will:
 
 #### Libraries 
 %%
+
+---
+
 ## Learn in Public 
 #### Tools
 `excluded`
@@ -269,6 +273,7 @@ The Ledgerback portal will:
  
  ##### Tutorials and Guides 
   
+  ---
 
 ## AI & Data Governance**
 
@@ -294,7 +299,7 @@ The Ledgerback portal will:
   10. [# Data sovereignty: Mia takes control](https://www.youtube.com/watch?v=qfb2oOZDpOQ)
  
 ##### Tutorials and Guides 
-
+---
 ## Digital Democracy **
 
 #### Tools
@@ -320,6 +325,8 @@ The Ledgerback portal will:
 
  ##### Libraries & Schools 
 
+
+---
 ## Citizen Science  **
 
 #### Tools
@@ -336,6 +343,8 @@ The Ledgerback portal will:
 ##### Tutorials and Guides 
 
  ##### Libraries & Schools 
+ 
+ ---
 
 ## Digital Infrastructure **
 
@@ -355,6 +364,7 @@ Helium, Althea, Comons think tanlk
 
 1. [Democratic Digital Infrastructure](https://www.common-wealth.co.uk/reports/democratic-digital-infrastructure)
 
+---
 ## Knowledge Graphs  **
 
 #### Tools
