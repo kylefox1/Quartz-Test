@@ -22,6 +22,10 @@ title: "Frontier Portal"
 
 The Ledgerback Frontier Portal is a gateway to the decentralized web (DWeb) and related fields. The aim of the portal is to help you start dive into the DWeb, especially from a convergence perspective (so expect beginner resources across a wide swath of topics), and hopefully cause a paradigm shift in your thinking.
 
+Contact me on [Twitter](https://twitter.com/CAdjovu).
+
+
+
 
 
 ## Discoverability 
@@ -39,7 +43,7 @@ The Ledgerback portal is:
 -   A browser plugin?
     
 -   A place for educators to find resources to use in their own courses
--   A map to connect existing data and tech across the ecosystem
+-   A map to connect existing data and tech across the DWeb ecosystem
     
 
   
@@ -63,7 +67,7 @@ The Ledgerback portal will:
 
   
 
-# Areas 
+# Foundational Knowledge
     
 
   
@@ -105,7 +109,7 @@ The Ledgerback portal will:
   12.  [**Dear Blockchain, You Were Not the First Decentralized Network.**](https://medium.com/swlh/dear-blockchain-you-were-not-the-first-decentralized-network-65a37b5ed393)
   13.  [Privacy](https://policyreview.info/concepts/privacy)
   14.  [NFTs: Redefining Digital Ownership and Scarcity](https://www.sothebys.com/en/articles/nfts-redefining-digital-ownership-and-scarcity)
-  15.  [# Decentralized vs. Distributed Organization: Blockchain, Machine Learning and the Future of the Digital Platform](https://journals.sagepub.com/doi/full/10.1177/2631787720977052)
+  15.  [Decentralized vs. Distributed Organization: Blockchain, Machine Learning and the Future of the Digital Platform](https://journals.sagepub.com/doi/full/10.1177/2631787720977052)
   16.  **[WHAT COUNTS? Signaling our values through creative currencies](https://pnca.edu/pdf/currency-publication-rd10.pdf)**
   17.  **[Distributed Ledger Technologies, Value Accounting, and the Self Sovereign Identity](https://www.frontiersin.org/articles/10.3389/fbloc.2020.00029/full).**
   18.  **[Regulate the web by yiibu](https://docs.google.com/presentation/d/1Nmc5ZlbO3nQf8DRmUIa4lxzFR4woeaFv0OIQMF8QcDo/edit#slide=id.p)**
@@ -128,6 +132,7 @@ The Ledgerback portal will:
   35.  [# Intro to the fediverse](https://erambler.co.uk/blog/intro-to-the-fediverse/)
   36.  [# The Web We Lost](https://anildash.com/2012/12/13/the_web_we_lost/)
   37.  [Decentralized Autonomous Organization](https://policyreview.info/pdf/policyreview-2021-2-1556.pdf)
+  38.  [What Is Web 3.0 & Why It Matters](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b)
  
 #### Tutorials and Guides 
  
@@ -170,6 +175,7 @@ The Ledgerback portal will:
 ### Search Engines
 
 1. [Almonit](https://almonit.eth.link/#/discover/)
+2. [The Graph](https://thegraph.com/explorer/)
 
 ---
 ## Platform Cooperativism
@@ -392,3 +398,19 @@ Helium, Althea, Comons think tanlk
 4. Joshua Davila's [Decentralisation at Work: Cooperatives on the Blockchain](https://www.dgen.org/blog/decentralisation-at-work-cooperatives-on-blockchain)
 5. [Web3, Blockchain & Co-ops](https://twitter.com/i/lists/1400909414370971649) Twitter List
 6. [Digital cooperatives are the future](https://medium.com/nexus-mutual/digital-cooperatives-are-the-future-2b0772c1e03a)
+7. [# Leadership in The Ownership Economy—Scaling Decision Making while Minimizing Securities Risk](https://variant.fund/writing/leadership-in-the-ownership-economyscaling-decision)
+
+### Glossary
+
+A [DWeb Glossary ](https://airtable.com/invite/l?inviteId=invNujGbZ23gEHMF1&inviteToken=1279a52ff6f670[%E2%80%A6]94ca636ea49812cfac714c12d87bfed53dac4df74f583&utm_source=email) by Charles. 
+
+# Getting Involved
+
+
+## [12 ways to get involved in the Ledgerback Frontier Today](https://docs.google.com/document/d/1yqV0RtXuSwsasEd__SHgIUyg80PeTuej7kkMkh5BUzc/edit?usp=sharing)
+
+ # Beyond the Frontier
+ 
+ ## Visions of the future. 
+ 
+ 
