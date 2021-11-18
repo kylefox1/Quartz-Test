@@ -1,6 +1,5 @@
 ---
-title: "Rise of Education Platform Coops
-"
+title: "Rise of Education Platform Coops"
 ---
 ### Rise of Education Platform Coops
 
