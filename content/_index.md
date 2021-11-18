@@ -91,8 +91,8 @@ I am changing my *stage tag* to states of matter (gas -> plasma -> liquid -> sol
 
 ### Observatory
 
-- [One-pager on the Observatory datasets](./Garden-1/Observatory-2021_0925-V0.1): some thoughts and a very very rough draft of a one-pager for the Observatory
-- [Preliminary work on Tools, People and Glossary datasets](./Garden-1/Observatory/Observatory-2021_1112-V0.1.md): Updates on the release of preliminary work on the tools, people, and glossary datasets and thoughts on Metabrainz. 
+- [One-pager on the Observatory datasets](./Garden-1/Observatory-2021_0925-V0.1.md): some thoughts and a very very rough draft of a one-pager for the Observatory
+- [Preliminary work on Tools, People and Glossary datasets](./Garden-1/Observatory-2021_1112-V0.1.md): Updates on the release of preliminary work on the tools, people, and glossary datasets and thoughts on Metabrainz. 
 
 
 ### Bikestream
