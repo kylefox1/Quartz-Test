@@ -15,7 +15,7 @@ Some thoughts on what the Association's products are or will be, and the means t
     
 3.  Knowledge curation via Distroid
     
-4.  Conference 
+4.  Conferences 
     
 5.  Library
     
@@ -38,6 +38,7 @@ Some thoughts on what the Association's products are or will be, and the means t
 11.  Recognition via Awards (and other things)
 12.  Early-stage concepts
 13.  Publications
+14.  Educational resources (quizzes, flashcards, OER, etc.)
     
 `Intellectual Property and Knowledge in general`
 

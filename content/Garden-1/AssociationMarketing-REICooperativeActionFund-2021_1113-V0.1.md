@@ -35,15 +35,7 @@ Financial and other information about REI Cooperative Action Fund's purpose, pro
 ```
 
 
-Funds -> Philanthropists, Experts, (also benefits Consumers (getting governance right) and User/Developer (getting governance right), but is not primarily targeted at them)
-Library -> Experts, Consumers, Philanthropists, User/Developers
-Modular products -> Users/Developers, Experts
-Trainings & other Learning activities -> Consumers, Experts
-Conference -> Experts, Consumers, Philanthropists, User/Developers
-Awards -> Experts, Consumers, Philanthropists, User/Developers
-Media -> Experts, Consumers, Philanthropists, User/Developers
-Cloud & Computing Infrastructure -> Experts 
-Badges & Credits -> Public, Consumers
+
 
 
 
