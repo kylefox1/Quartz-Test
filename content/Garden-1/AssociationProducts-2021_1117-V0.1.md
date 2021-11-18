@@ -37,6 +37,7 @@ Some thoughts on what the Association's products are or will be, and the means t
     
 11.  Recognition via Awards (and other things)
 12.  Early-stage concepts
+13.  Publications
     
 `Intellectual Property and Knowledge in general`
 
