@@ -10,12 +10,13 @@ Thoughts on converting the Association to a multi-stakeholder cooperative associ
 1. Worker/Expert
 2. Consumer
 3. Philanthropist
-4. Developer
+4. User/Developer (i.e., Licensees)
 5. Staff `recently included. May change to *worker* later.`
+6. Supporters
 
 # Why multi-stakeholder?
 
-Multi-stakeholder makes the most sense because the Association's outputs are wide and varied. As a research cooperative, the Association is akin to a research institute (and possibly a professional society), thus the additional types the Association can include:
+Multi-stakeholder makes the most sense because the Association's outputs are wide and varied. As a research cooperative, the Association is akin to a research institute (and possibly a professional society), thus the additional types the Association can include (based on outputs or goods/services):
 
 1. Data
 2. Tech
@@ -25,7 +26,7 @@ Multi-stakeholder makes the most sense because the Association's outputs are wid
 
 Because the outputs are so varied, the Association's stakeholders can include multiple types of people seeking different needs and wanting to explore different interests.  
 
-Additionally, based on the NC2I, the Association can become an indepednent scholar/cognitive institute and be a home for an alternative academy. 
+Additionally, based on the NC2I, the Association is expected to be a connection platform (i.e., matchmaking platform) `can also say that this is making a a network`, that acts as a hub for indepednent scholars/cognitives (knowledge creators in general).
 
 Additionally, after examining other research cooperatives and education cooperatives, I came to the conclusion that most knowledge-based markets are 2+ sided markets, thus precipitating the existence of a platform. A multi-stakhoelder model makes sense because the market a research institute exists in is a 4+ sided market compsoed of the following stakeholders:
 

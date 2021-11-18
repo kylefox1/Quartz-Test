@@ -55,7 +55,7 @@ Also need a graphic for each event:
 
 The ***Understanding the Ledgerback Frontier*** training program is  uniquely designed to provide indidivudals who are interested in (or *self-study*) researching and educatting others on the Decentralized Web (DWeb) and related fields (i.e., the Ledgerback Frontier) a working understanding of how to study the Ledgerback Frontier. While these classes consider relevant tools and foundational knowledge, they focus primarily on the underlying technologies, governance structures and business practices that need to be grasped in order to better understand Ledgerback Frontier `social, technical, and socio-technical` issues, formulate questions to traverse the information/idea space, and create new visions of the future.
 
-From Web3 to Platform Cooperativism to Data Governance to Tools for Thought (TfT), participants learn directly from experts on the underlying technologies, governance structures and business practices to better understand legal, policy, and data protection issues. _**Understanding the Ledgerback Frontier**_ classes are presented by LDCRC expert-members and carefully selected invited technical experts (can also be governance, business, ethical, legal, etc.).
+From Web3 to Platform Cooperativism to Tools for Thought (TfT), participants learn directly from experts on the underlying technologies, governance structures and business practices to better understand sociotechnical ~~legal, policy, and data protection~~ issues. _**Understanding the Ledgerback Frontier**_ classes are presented by LDCRC expert-members and carefully selected invited technical experts (can also be governance, business, ethical, legal, etc.).
 
 ~~LDCRC works with senior privacy executives of leading companies and with academics, civil society, and policymakers to advance principled data practices in support of emerging technologies. To learn more about FPF and its experts, please visit [**https://fpf.org/about/**](https://fpf.org/about/).~~
 
@@ -69,7 +69,7 @@ From Web3 to Platform Cooperativism to Data Governance to Tools for Thought (TfT
 >FPF works with senior privacy executives of leading companies and with academics, civil society, and policymakers to advance principled data practices in support of emerging technologies. To learn more about FPF and its experts, please visit [**https://fpf.org/about/**](https://fpf.org/about/).
 
 ## Session format
-All sessions will take place live and in a virtual setting through 2021 and early 2022. Each will be hosted by knowledgeable LDCRC experts and carefully selected invited technical experts to provide real-world insights. Sessions are intended to be interactive and registered participants will have an opportunity to ask questions of hosts and to learn from each other.
+All sessions will take place live and in a virtual setting through 2021 and 2022. Each will be hosted by knowledgeable LDCRC experts and carefully selected invited technical experts to provide real-world insights. Sessions are intended to be interactive and registered participants will have an opportunity to ask questions of hosts and to learn from each other.
 
 ## Cancellation Policy
 

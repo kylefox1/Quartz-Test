@@ -19,8 +19,8 @@ This is my learning/research/product portfolio:
 	- People
 	- Tools
 - [Networked Cognitive Cooperative Institute (NC2I)](): a potential strategic plan and institutional-ecosystem model for the LDCRC
-- [Bikestream](): a project to help people see the benefits of valuing and managing their data and vehicles (can extend to electronic devices in general)
-- [Laplace](): a learning & research (and tools) content aggregator and platform for hackathons (also to develop courses) and micro-consulting, and visualizing and building an expert graph of knowledge at the Ledgerback Frontier. 
+- [Bikestream](): a project to help people see the benefits of valuing and managing their data and vehicles (can extend to electronic devices in general) (Data Monetization and TransportationTech)
+- [Laplace](): a learning & research (and tools) content aggregator and platform for hackathons (also to develop courses) and micro-consulting, and visualizing and building an expert graph of knowledge at the Ledgerback Frontier (EdTech). 
 - [Distroid](https://distroid.substack.com/): a knowledge curation service similar to [TheSyllabus](https://twitter.com/syllabus_tweets)
 - [Awards](./Garden-1/Awards-2021_1022-V0.1.md): awards to recognize individual and group work at the Ledgerback Frontier 
 - [DGov Score Framework's (DGov Score)](): a project to develop the theoretical background for understanding organizational structures and developing tools to analyze organizations, with an emphasis on digital organizations, self-management and -organization, and Decentralized Autonomous Organizations (DAOs). Currently focused on making the DAO Index Survey.
