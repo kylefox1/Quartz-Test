@@ -20,13 +20,13 @@ title: "Frontier Portal"
 
 # About
 
-The Ledgerback Frontier Portal is a gateway to the Decentralized Web (DWeb) and related fields (i.e., Ledgerback Frontier). The aim of the portal is to help people start diving into the DWeb, especially from a convergence perspective (so expect beginner resources across a wide swath of topics), and hopefully cause a paradigm shift towards [decentralized and open thinking]()
+The Ledgerback Frontier Portal is a gateway to the Decentralized Web (DWeb) and related fields (i.e., Ledgerback Frontier). The aim of the portal is to help people start diving into the DWeb, especially from a convergence perspective (so expect beginner resources across a wide swath of topics), and hopefully cause a paradigm shift in user's thinking towards blockchain thinking (and more).
 
 For an easier to read version with more attributes, please look at the [Frontier Portal Table for Web3](https://docs.google.com/spreadsheets/d/1xpvPIrfrkCfKGZv_TYiHOvNHXI6q2IBZP6s857g_5hI/edit?usp=sharing).
 
 Contact me on [Twitter](https://twitter.com/CAdjovu) if you want to chat about the Frontier Portal.
 
-
+I also made a trivia game for history on the Ledgerback Frontier's Web3 portion (just historical questions for now). Find it [here](https://quizizz.com/join?gc=58809249).
 
 
 
