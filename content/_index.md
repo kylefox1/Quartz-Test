@@ -158,16 +158,35 @@ Some immediate questions that come to mind with this project:
 - [AssociationTrainingProgram-FuturePrivacyForum-2021_1113-V0.1](./Garden-1/AssociationTrainingProgram-FuturePrivacyForum-2021_1113-V0.1.md): Early rough draft for the *Understanding the Ledgerback Frontier* training program. 
 - [AssociationMarketing-REICooperativeActionFund-2021_1113-V0.1](./Garden-1/AssociationMarketing-REICooperativeActionFund-2021_1113-V0.1.md): Soome thoughts on how to market a 501(c)(3) tax-deductible fund to donors/philanthropists based on REI Cooperative Action Fund. 
 - [Awards](./Garden-1/Awards-2021_1022-V0.1.md): awards to recognize individual and group work at the Ledgerback Frontier 
-- [Conference_Ideas-2021_0925-V0.1](./Garden-1/Conference_Ideas-2021_0925-V0.1.md): ideas for a conference
+- [Conference Ideas](./Garden-1/Conference_Ideas-2021_0925-V0.1.md): ideas for a conference
+- [DAOification](DAOification-WaterMusic-2021_1112.md): Thoughts on DAO-ifying the Association based on Water & Music's DAOification attempt
 
 
 ### Conceptualizing Research Cooperatives
 
 1. [Research Cooperatives as FROs](./Garden-1/ResearchCooperatives-2021_1112-V0.1.md): Are research cooperatives a more legitimate institutional form as a derivative of focused research organizations (FROs) that also focuses on stakeholder dynamics?
 
+### Legal Issues
+
+1. [Legal Issues in Web3](./Garden-1/LegalIssues-Web3-2021_1112-V0.1.md)
+
 # Papers
 
 1. [Blockchain and the Rise of the Internet Cooperative](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3750540)
+
+```markdown
+Cooperatives and blockchain projects appear to be unrelated until a deeper look is taken into
+blockchain projects and their associated communities. Cooperatives and blockchain projects both
+promote substantially similar principles and values centered around democratic member control
+and the freedom for individuals to come together for their own mutual benefit. There are two
+types of cooperativism which expressly account for the ability for blockchain to further
+cooperatives, platform cooperativism and open cooperativism. Further, decentralized
+autonomous organizations (DAOs), take the combination of blockchain and cooperativism even
+further through the cooperative management of an entity that is created on, managed on, and
+solely exists on a blockchain. the inner workings of blockchain make it extremely suitable for
+meeting the seven principles and values that unite cooperatives across the world and for
+expanding cooperative values and principles from local communities to global movements.
+```
 
 # Recordings
 

@@ -1,5 +1,5 @@
 ---
-title: "Article Ideas"
+title: "Conference Ideas"
 ---
 
 # Conf Ideas

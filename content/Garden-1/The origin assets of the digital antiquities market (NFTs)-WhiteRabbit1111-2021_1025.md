@@ -1,3 +1,7 @@
+---
+title: "ass'n stuff"
+---
+
 # [The origin assets of the digital antiquities market (NFTs)](https://whiterabbit1111.medium.com/the-origin-digital-antiquities-market-nfts-1ea9b69c03f9)
 
 [![WhiteRabbit1111](https://miro.medium.com/fit/c/35/35/1*Q7-L-Ps3zRBwkMeLIC8LrQ.png)](https://whiterabbit1111.medium.com/?source=post_page-----1ea9b69c03f9--------------------------------)

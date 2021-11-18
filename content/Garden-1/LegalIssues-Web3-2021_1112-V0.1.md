@@ -2,7 +2,6 @@
 title: "ass'n stuff"
 ---
 
-
 # Disclaimers
 
 _This content is provided for informational purposes only, and should not be relied upon as legal, business, investment, or tax advice. You should consult your own advisers as to those matters. References to any securities or digital assets are for illustrative purposes only, and do not constitute an investment recommendation or offer to provide investment advisory services._
