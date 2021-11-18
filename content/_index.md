@@ -158,6 +158,7 @@ Some immediate questions that come to mind with this project:
 - [AssociationTrainingProgram-FuturePrivacyForum-2021_1113-V0.1](./Garden-1/AssociationTrainingProgram-FuturePrivacyForum-2021_1113-V0.1.md): Early rough draft for the *Understanding the Ledgerback Frontier* training program. 
 - [AssociationMarketing-REICooperativeActionFund-2021_1113-V0.1](./Garden-1/AssociationMarketing-REICooperativeActionFund-2021_1113-V0.1.md): Soome thoughts on how to market a 501(c)(3) tax-deductible fund to donors/philanthropists based on REI Cooperative Action Fund. 
 - [Awards](./Garden-1/Awards-2021_1022-V0.1.md): awards to recognize individual and group work at the Ledgerback Frontier 
+- [Conference_Ideas-2021_0925-V0.1](./Garden-1/Conference_Ideas-2021_0925-V0.1.md): ideas for a conference
 
 
 ### Conceptualizing Research Cooperatives
