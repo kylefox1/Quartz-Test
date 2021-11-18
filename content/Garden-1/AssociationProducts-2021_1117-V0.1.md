@@ -69,9 +69,8 @@ What is needed to make products?
     
 
 	1.  Volunteers
-
-	1.  Worker-members?
-	2.  Consumer-members?
+	1.  Experts
+	2.  Consumers?
     
 
 6.  Committee and management support (i.e., back-office stuff)
