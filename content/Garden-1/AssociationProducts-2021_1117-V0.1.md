@@ -36,7 +36,9 @@ Some thoughts on what the Association's products are or will be, and the means t
 10.  Funds (a way to externalize research)
     
 11.  Recognition via Awards (and other things)
+12.  Early-stage concepts
     
+`Intellectual Property and Knowledge in general`
 
 # Resources (Inputs)
 **
