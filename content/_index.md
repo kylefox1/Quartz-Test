@@ -64,10 +64,10 @@ I am changing my *stage tag* to states of matter (gas -> plasma -> liquid -> sol
 -   topic tags
 -   start and end date
 -   a stage tag: 
-	-   🌱 _Gas_ for very rough and early ideas
-	-   🌿 _Plasma_ for work I've cleaned up and clarified
-	-   🌳 _Liquid_ for work that is reasonably complete (though I still tend these over time).
-	-    _Solid_ for work that is reasonably complete and will have few updates
+	-   _Gas_ for very rough and early ideas
+	-   _Plasma_ for work I've cleaned up but is still rough
+	-   _Liquid_ for work that is reasonably a first draft (though I still tend these over time).
+	-   _Solid_ for work that is reasonably complete (a working draft to final draft) and I expect will have few updates in the future
 -   a confidence  tag: how likely it is the overall ideas are right
 -   a credibility tag: how well-supported the essay is,
 -   1-10 importance tag: how important (impact) I think  the idea is to myself, society, scholarship, or industry 
