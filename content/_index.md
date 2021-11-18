@@ -6,9 +6,13 @@ This site is based on [Jacky Zhao's](https://jzhao.xyz/posts/digital-gardening) 
 
 This digital garden is primarily for my work on/for the [Ledgerback Digital Commons Research Cooperative](https://www.ledgerback.coop/) ("LDCRC", "Association").
 
-I am drawn to working on [(too) many things at once](https://twitter.com/dhof/status/1444630757863952393) and running through a [learning/research/product portfolio](https://robhaisfield.com/notes/hyper-learning), so do not expect all of these notes to be connected. Uusually the best bet for traversing this digital garden is running through the [directories](##Directories) listed below.
+I am drawn to working on [(too) many things at once](https://twitter.com/dhof/status/1444630757863952393) and running through a [learning/research/product portfolio](https://robhaisfield.com/notes/hyper-learning), so expect these notes to cover multiple areas. 
 
-## Current “main” projects
+Usually the best bet for traversing this digital garden is running through the [directories](##Directories) listed below.
+
+## Project Portfolio
+
+This is my learning/research/product portfolio: 
 
 - [Observatory](./Garden-1/Knowledgebases-2021_0925-V0.1.md):  a database monitoring pluralistic actors, organizations, movements, events, protocols, networks and more in the Ledgerback Frontier (i.e., Decentralized Web (DWeb) and related fields). 
 	- Glossary 
