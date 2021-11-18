@@ -1,23 +1,26 @@
 ---
-title: "dataset  Previews"
+title: "Observatory-2021_0925-V0.1"
 ---
 
-# datasets
+# Observatory
 
-I am working on a couple datasets for Ledgerback's Library.
+I am working on a couple datasets for Ledgerback's Library. Specifically, these datasets are for the Observatory project, a database monitoring convergence (connection and integration) `convergence is my interest so I am including extra fields. If you are a member and want your fields added, please send me a message!` and pluralistic actors, organizations, movements, events, protocols, networks and more in the Ledgerback Frontier (Decentralized Web (DWeb) and related fields). 
 
-These datasets will help map the space and hopefully make it searchable. May also include some lit. rev.'s (scholarly/text network analysis )
+`Convergence is my interest but anyone can add any fields they want.`
+
+These datasets will help map the space and hopefully make it searchable. I think I will try to approach this project similarly to [MetaBrainz](https://metabrainz.org/about).
 
 The datasets are:
 
-1. Observatory (a dataset  monitoring convergent (connection and integration) and pluralistic actors, organizations, movements, events, protocols, networks and more in the alternative internet (i.e., decentralized web, indieweb, Web3, distributed web)),
-	1. `mayve name this the DWeb Convergence Observatory`
+1. ~~Observatory (a dataset  monitoring convergent (connection and integration) and pluralistic actors, organizations, movements, events, protocols, networks and more in the alternative internet (i.e., decentralized web, indieweb, Web3, distributed web)), `mayve name this the DWeb Convergence Observatory`~~
 2. Glossary (a dataset  constructing a convergent glossary of terms  that span and link across communities in the alternative internet, and grey and academic literature),
+	1. **The world's most comprehensive decentralized web and related fields glossary**
+	2. **The worl'd most comprehensive Ledgerback Frontier glossary**
 3. Tools ( a dataset  of tools for spanning  the alternative internet, including communities, data-driven apps, social tech, study resources, and more ),
-4. [DGov_Score-DAO_Index-2021_0921-V0.1](Garden-1/DGov_Score-DAO_Index-2021_0921-V0.1.md)
+4. ~~[DGov_Score-DAO_Index-2021_0921-V0.1](Garden-1/DGov_Score-DAO_Index-2021_0921-V0.1.md)~~
 5. FAQs
 	1. probably use for a NLP Q&A system demo
-6. Global Tech Commonwealth (GTC) Index
+6. ~~Global Tech Commonwealth (GTC) Index~~
 7. Convergence Lit. Rev.
 8. Solutions
 	1. [Backyard_BrainTrust-2021-1004-V0.1](Garden-1/Backyard_BrainTrust-2021-1004-V0.1.md)

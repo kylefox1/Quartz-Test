@@ -1,6 +1,7 @@
 ---
-
+title: "ass'n stuff"
 ---
+
 
 ### Data Cooperatives and AI Commons
 

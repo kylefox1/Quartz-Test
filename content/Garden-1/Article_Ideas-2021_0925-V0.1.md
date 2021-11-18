@@ -78,5 +78,6 @@ Alternatively, I might turn these into podcasts.
 	1. prepare people for alternative internet or industry 4.0 or moving towards GTC?
 		1. same format as courses?
 		2. Philosopher's journey?
+39. **Use blockchain to incentivize connecting schemas of knowledge graphs via category theory**
 
 

@@ -15,14 +15,16 @@ title: "Frontier Portal"
 -  importance: 7
 
 ```
-
+`Note: I am changing from gardening to states of matter (gas, plasma, liquid, solid)`
 ---
 
 # About
 
-The Ledgerback Frontier Portal is a gateway to the decentralized web (DWeb) and related fields. The aim of the portal is to help you start dive into the DWeb, especially from a convergence perspective (so expect beginner resources across a wide swath of topics), and hopefully cause a paradigm shift in your thinking.
+The Ledgerback Frontier Portal is a gateway to the Decentralized Web (DWeb) and related fields (i.e., Ledgerback Frontier). The aim of the portal is to help people start diving into the DWeb, especially from a convergence perspective (so expect beginner resources across a wide swath of topics), and hopefully cause a paradigm shift towards [decentralized and open thinking]()
 
-Contact me on [Twitter](https://twitter.com/CAdjovu).
+For an easier to read version with more attributes, please look at the [Frontier Portal Table for Web3](https://docs.google.com/spreadsheets/d/1xpvPIrfrkCfKGZv_TYiHOvNHXI6q2IBZP6s857g_5hI/edit?usp=sharing).
+
+Contact me on [Twitter](https://twitter.com/CAdjovu) if you want to chat about the Frontier Portal.
 
 
 
@@ -36,38 +38,21 @@ The Ledgerback portal is:
 
   
 
--   A gateway to the DWeb 
+-   A gateway to the DWeb (primarily through a foundational syllabus)
     
--   An explorable and fun platform to safely discover projects and teams
+-   ~~An explorable and fun platform to safely discover projects and teams~~
     
 -   A browser plugin?
     
 -   A place for educators to find resources to use in their own courses
--   A map to connect existing data and tech across the DWeb ecosystem
-    
-
+-   A map to connect existing knowledge, data and tech across the Ledgerback Frontier
   
-%%
-## Security
-
-  
-
-The Ledgerback portal will:
-
-  
-
--   Guide people to community-verified projects and teams
-    
--   ~~Help people take responsibility for their own security~~
-    
--   Collaborate with teams and connect with existing data and tech across the ecosystem
-%%
 
  
 
   
 
-# Foundational Knowledge
+# Foundational Knowledge/Syllabus
     
 
   
@@ -133,6 +118,7 @@ The Ledgerback portal will:
   36.  [# The Web We Lost](https://anildash.com/2012/12/13/the_web_we_lost/)
   37.  [Decentralized Autonomous Organization](https://policyreview.info/pdf/policyreview-2021-2-1556.pdf)
   38.  [What Is Web 3.0 & Why It Matters](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b)
+  39.  [# Reputation in Web3: Ships Built on the Great Flood](https://darkstar.mirror.xyz/aXm3OTVTK26hN2QKu82s8NjLQYPKCOMiVD2zIioCOVU)
  
 #### Tutorials and Guides 
  
@@ -166,6 +152,7 @@ The Ledgerback portal will:
  15. [Zero Knowledge Education](https://zkeducation.eth.link/)
  16. [Figment Learn](https://learn.figment.io/)
  17. [Decentralised.co's Reading List](https://www.decentralised.co/the-reading-list/)
+ 18. [Cooper's Web3 Reading Repo](https://midroni.notion.site/Cooper-s-Web3-Reading-Repo-f0347938bb67425285cb9ee20e8be08b)
  
  ### Visualizations
 1. **[Decentralized Technology Ecosystem](https://kumu.io/DigLife/decentralized-tech#ecosystem/c12f0b25-641b-4d22-9c2e-b56908d96c15)**
@@ -202,15 +189,16 @@ The Ledgerback portal will:
   4. **[Platform Cooperativism vs. the Sharing Economy | by Trebor Scholz](https://medium.com/@trebors/platform-cooperativism-vs-the-sharing-economy-2ea737f1b5ad)**
   5. **[CoopTech: Platform Cooperativism as the Engine of Solidary Growth](http://instrat.pl/wp-content/uploads/2019/11/CoopTech-Platform-Cooperativism-as-the-Engine-of-Solidary-Growth.pdf)**
   6. **[Cooperative identity, values & principles | ICA](https://www.ica.coop/en/cooperatives/cooperative-identity)**
-  7. [Collaborative Economy Companies Need To Start Sharing More Value With The People Who Make Them Valuable](https://www.fastcompany.com/3038476/collaborative-economy-companies-need-to-start-sharing-more-value-with-the-people-who-make-th "Collaborative Economy Companies Need To Start Sharing More Value With The People Who Make Them Valuable")
-  8. [Platform Business Model explained…in under 100 words](https://www2.deloitte.com/ch/en/pages/innovation/articles/platform-business-model-explained.html)
-  9. [Your guide to the cooperative movement](https://www.tesacollective.com/study-guide-to-the-cooperative-movement/)
-  10. [ What is Platform Cooperatives](https://edu.coonecta.me/courses/palestra-cooperativismo-plataforma-travis-higgins)
-  11. [An introduction to platform co-ops](https://stephenreid.net/blog/2020/11/22/an-introduction-to-platform-coops.html)
+  7. **[A Different Kind of Sharing Economy: A Literature Review of Platform Cooperatives](https://scholarspace.manoa.hawaii.edu/handle/10125/71119)**
+  8. [Collaborative Economy Companies Need To Start Sharing More Value With The People Who Make Them Valuable](https://www.fastcompany.com/3038476/collaborative-economy-companies-need-to-start-sharing-more-value-with-the-people-who-make-th "Collaborative Economy Companies Need To Start Sharing More Value With The People Who Make Them Valuable")
+  9. [Platform Business Model explained…in under 100 words](https://www2.deloitte.com/ch/en/pages/innovation/articles/platform-business-model-explained.html)
+  10. [Your guide to the cooperative movement](https://www.tesacollective.com/study-guide-to-the-cooperative-movement/)
+  11. [ What is Platform Cooperatives](https://edu.coonecta.me/courses/palestra-cooperativismo-plataforma-travis-higgins)
+  12. [An introduction to platform co-ops](https://stephenreid.net/blog/2020/11/22/an-introduction-to-platform-coops.html)
  
- ##### Tutorials and Guides 
+##### Tutorials and Guides 
  
-  ##### Libraries & Schools 
+##### Libraries & Schools 
   
  1. [PlatformCoop Directory](https://ioo.coop/directory/)
  2. [PlatformCoop Library](https://ioo.coop/library/)
@@ -305,8 +293,14 @@ The Ledgerback portal will:
   10. [# Data sovereignty: Mia takes control](https://www.youtube.com/watch?v=qfb2oOZDpOQ)
  
 ##### Tutorials and Guides 
+
+##### Libraries & Schools 
+
+1. [# YOU AND AI: THE AI SURVIVAL GUIDE](https://www.onassis.org/whats-on/festival-you-and-ai-through-the-algorithmic-lens/survival-guide-)
+
 ---
 ## Digital Democracy **
+*i.e., CivicTech*
 
 #### Tools
 `excluded`
@@ -326,6 +320,7 @@ The Ledgerback portal will:
   7. [# **Digital parliaments: Adapting democratic institutions to 21st century realities**](https://medium.com/participo/digital-parliaments-adapting-democratic-institutions-to-21st-century-realities-99214d352063)
   8. [# Innovative citizen participation](https://www.oecd.org/gov/innovative-citizen-participation.htm)
   9. [## What is a citizens' assembly?](https://www.sortitionfoundation.org/what)
+  10. [# Towards Platform Democracy: Policymaking Beyond Corporate CEOs and Partisan Pressure](https://www.belfercenter.org/publication/towards-platform-democracy-policymaking-beyond-corporate-ceos-and-partisan-pressure)
  
 ##### Tutorials and Guides 
 

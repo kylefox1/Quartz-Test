@@ -22,8 +22,8 @@ I think the lack of similar conferences might work.
 
 Conferences I am examining in setting up the conference are:
 
-1. [Metascience]()
-2. [Knowledge Graph Conference]()
+1. [Metascience](https://metascience2021.org/)
+2. [Knowledge Graph Conference](https://www.knowledgegraph.tech/)
 3. [WAIM]()
 
 # 2021-10-22 Update

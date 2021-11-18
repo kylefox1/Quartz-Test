@@ -12,4 +12,8 @@ A list of Web3 and Tokenization experiments I have been thinking about.
 6. $SCHOLAR tokens to  advance the scholarly currency network (mentioned in SDCI slides)
 7. Minting an NFT of an article and auctioning it off
 8. Tokenizing quizzes
+	1. giving tokens to people who complete beginner quizzes, and then requiring tokens to be used or proof of their existence for higher level quizzes?
 9. **Prediction market** for Knowledge Frontier 
+10. Creating a contribution-tracking token ($LEDGERBACK) for people who complete bounties on the LDCRC Volunteer Board. If people earn enough tokens, then I will send them a badge as an NFT 
+	1. [DAOification-WaterMusic-2021_1112](Garden-1/DAOification-WaterMusic-2021_1112.md)
+11. Creating a protocol to incentivize people to connect schemas between knowledge graphs using category theory (or just incentivizing people to use one standardized format for the knowledge graph schema)
