@@ -46,6 +46,8 @@ What is needed to make products?
   
 
 1.  Infrastructure 
+	1.  Library
+	2.  Cloud & Computing infrastructure
     
 2.  Funding
   
