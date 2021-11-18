@@ -1,3 +1,7 @@
+---
+title: "Ass'n Directory"
+---
+
 - [NC2I-Multistakeholder-2021_1112-V0.1](NC2I-Multistakeholder-2021_1112-V0.1.md): Some thoughts on why the NC2I strategic plan may necessitate a multi-stakeholder model for the Association
 - [AssociationProducts-2021_1117-V0.1](AssociationProducts-2021_1117-V0.1.md): Thoughts on the outputs and inputs of the Association 
 - [AssociationMarketing-WaterMusic-2021_1112](AssociationMarketing-WaterMusic-2021_1112.md): Some thoughts on how to market membership in the Association based on Water & Music

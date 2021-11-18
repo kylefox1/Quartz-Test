@@ -1,3 +1,7 @@
+---
+title: "active inference lab"
+---
+
 ```markdown
 **Active Inference Lab (ActInfLab) is a non-profit organization that is a participatory open-science laboratory curating and developing applications related to the Active Inference framework.**
 
